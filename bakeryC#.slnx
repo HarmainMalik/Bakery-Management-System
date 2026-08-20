@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="BusinessLogic/BusinessLogic.csproj" Id="b73a2484-8dc9-4f36-b782-61426f8e242a" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" Id="eb87e95d-cbcb-40f7-9074-7b5012abb8ba" />
+  <Project Path="DataAccess/DataAccess.csproj" Id="3c022774-31fc-4e22-8151-2d2240bc7229" />
+  <Project Path="Models/Models.csproj" Id="0f6f4d39-1e93-48d0-939f-ecb1496258e3" />
+  <Project Path="UI/UI.csproj" Id="3f95e1ec-e16e-4a29-8123-1d0bd085e048" />
+</Solution>
