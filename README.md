@@ -54,25 +54,25 @@ Repository Pattern
 Layered Architecture
 Event-Driven Programming
 
-###🔧 Core Services
+🔧 Core Services
 - AuthService
 - ProductService
 - AdminService
 - CustomerService
 - SalesService
   
-###🖥️ UI
+🖥️ UI
 Built with Windows Forms, providing separate workflows for:
 
 - Owner
 - Admin
 - Customer
   
-###🎥 Project Demo
+🎥 Project Demo
 
 A complete video demonstration is included in the repository, showcasing authentication, product management, inventory, purchasing, receipts, and sales functionality.
 
-###👩‍💻 Project Focus
+👩‍💻 Project Focus
 
 This project demonstrates the practical use of C#, OOP, layered architecture, business logic, data access, and Windows Forms in a real-world business management application 
 
